@@ -10,8 +10,8 @@ This script is designed to remove license restrictions for **StarUML tested in v
 
 ## Initialization
    ```bash
-   git clone git@github.com:Nother01/Crack_StarUML.git
-   cd Crack_StarUML
+   git clone git@github.com:kashima1234/Crack_starUML.git
+   cd cd Crack_starUML/
    chmod 755 starUML.sh
 ```   
 
@@ -28,20 +28,8 @@ Run the script with or without specifying the path to the StarUML installation f
 	```
 \
 **Output**	
-```
-StarUML directory provided: /opt/StarUML
 
-[1] Navigated to /opt/StarUML/resources
-[2] Checking if asar is already installed...
-[3] Extracting app.asar...
-[4] Checking StarUML version. Tested versions for this patch: 6.2.2 6.3.0
-        -> Version found in package.json: 6.3.0
-[5] Copying files from /home/StarUMLCrack/patch to /opt/StarUML/resources/app/src/engine...
-[6] Packing app.asar...
 
-StarUML successfully patched!
-
-```
 
 ![f](resources/1.png)
 
