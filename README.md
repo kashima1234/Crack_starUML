@@ -11,7 +11,7 @@ This script is designed to remove license restrictions for **StarUML tested in v
 ## Initialization
    ```bash
    git clone git@github.com:kashima1234/Crack_starUML.git
-   cd cd Crack_starUML/
+   cd Crack_starUML/
    chmod 755 starUML.sh
 ```   
 
