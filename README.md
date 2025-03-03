@@ -34,3 +34,8 @@ Run the script with or without specifying the path to the StarUML installation f
 ![f](resources/1.png)
 
 After the script successfully applied, simply restart the StarUML executable to use the patched version.
+Or just simple by typing
+ 
+```
+staruml
+```
